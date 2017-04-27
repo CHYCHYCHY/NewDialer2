@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NewDialer22</string>
+    <string name="button1">拨打号码</string>
+    <string name="notify_incorrect_phonenum">INPUT ERROR</string>
+</resources>
